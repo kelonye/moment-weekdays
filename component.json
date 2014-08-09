@@ -1,0 +1,13 @@
+{
+  "name": "moment-weekdays",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "development": {
+    "moment/moment": "2.8.1",
+    "chaijs/chai": "1.9.1"
+  },
+  "licence": "MIT"
+}

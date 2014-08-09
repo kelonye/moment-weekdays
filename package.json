@@ -1,0 +1,11 @@
+{
+  "name": "moment-weekdays",
+  "version": "0.0.1",
+  "devDependencies": {
+    "moment": "^2.8.1",
+    "mocha": "^1.21.4",
+    "component": "^0.19.9",
+    "chai": "^1.9.1"
+  },
+  "licence": "MIT"
+}
