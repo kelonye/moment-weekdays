@@ -1,6 +1,7 @@
 {
   "name": "moment-weekdays",
   "version": "0.0.1",
+  "main": "lib/index.js",
   "devDependencies": {
     "moment": "^2.8.1",
     "mocha": "^1.21.4",
